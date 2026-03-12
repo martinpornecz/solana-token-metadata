@@ -2,5 +2,6 @@
   "name": "My Test Token",
   "symbol": "MTT",
   "description": "Example token",
-  "image": "https://links.marabu-studios.com/logo.png"
+"image": "https://picsum.photos/200",
+
 }
