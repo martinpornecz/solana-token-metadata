@@ -1,7 +1,7 @@
 {
-  "name": "My Test Token",
-  "symbol": "MTT",
-  "description": "Example token",
+  "name": "Another Test Token",
+  "symbol": "ATT",
+  "description": "Another example token",
 "image": "https://picsum.photos/200"
 
 }
